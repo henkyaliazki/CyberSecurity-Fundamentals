@@ -42,4 +42,4 @@ Ketersediaan memastikan bahwa informasi dan sistem selalu dapat diakses oleh pen
 - Mendelegasikan tanggung jawab dan berkolaborasi dengan tim lintas fungsi.
 - Melakukan pemantauan berkelanjutan dan penyesuaian strategi berdasarkan evaluasi.
 
-Dengan menerapkan analisis CIA, memahami skenario kegagalan, dan berpikir seperti CISO, kita dapat mengembangkan pendekatan keamanan yang komprehensif dan proaktif.
+Dengan menerapkan analisis CIA, memahami skenario kegagalan
